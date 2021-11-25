@@ -1,0 +1,8 @@
+Note: Following typos in the slides were fixed.
+
+Page 2)  Title: quantu -> quantum
+Page 7)  Lines 2 and 4 from the bottom: Z_q-1 -> Z_q+1
+Page 14) python program: from openfermion.transfoms -> from openfermion.transforms
+Page 17) Quantum circuit: P(theta = -i*g_1*t) -> P(theta = -g_1*t)
+Page 20) 3) in exp(-i*g_6*Y_0*Y_1*t): Reverse transform from X basis to Y basis -> Reverse transform from Z basis to Y basis
+Page 21) 5): Remove "by CNOT ladder" 
